@@ -6,7 +6,8 @@ Home Energy Monitoring System
 Designed for use in any ESP32-C3 equipped Energy Monitor that uses the BL0906 6-Channel Energy Monitor IC.
 
 I used the "IoTorero 6 CH Energy Meter".  It's available on Aliexpress or here:  https://www.athom.tech/blank-1/6-ch-energy-meter-made-for-esphome
-Be sure to get the number of CTs (Current Transformers) you need for the number of inputs you are using.
+
+Be sure to get the number of CTs (Current Transformers) you need for the number of inputs you are using. &nbsp; Note the ones that are supplied with the above unit only have a 10mm max wire size. &nbsp; I ended up getting some Yuanxing CTSA016-100A/50mA Split-Core CT Current Transformers with a 16mm wire size for my main feeders.</pre>
 
 If you are monitoring split-phase 240VAC, you need 2, but if it's an appliance that doesn't use neutral, you can use one.  (As I did for my EV charger)  
 
