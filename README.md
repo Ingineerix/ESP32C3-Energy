@@ -8,3 +8,5 @@ Uses Arduino ESP32 Framework
 Edit config.h with your specifics.
 
 Must Partition with SPIFFS!
+
+Adds Telnet console log access in parallel with UART.
